@@ -1,6 +1,6 @@
 # Portfolio
 Introduction
-This personal portfolio website project. The primary goal of this project is to showcase the student's skills, experience, and projects in the field of web technologies. The portfolio is built using HTML, CSS, and JavaScript to  create a responsive and visually appealing design.
+This personal portfolio website project. The primary goal of this project is to showcase the student's skills, experience, and projects in the field of web technologies. The portfolio is built using HTML, CSS, and JavaScript to  create a responsive and visually appealing design.It has a customized cursor which make it more user friendly
 
 Features
 •	Responsive design for optimal viewing on various devices.
